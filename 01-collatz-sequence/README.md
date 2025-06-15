@@ -11,6 +11,7 @@ A simple Python script that generates the Collatz sequence for a given positive 
 
 ## Example
 
+```
 Enter the number: 6
 Input: 6
 3
@@ -21,6 +22,7 @@ Input: 6
 4
 2
 1
+```
 
 ## File
 

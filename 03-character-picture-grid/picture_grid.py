@@ -46,7 +46,8 @@ def main():
     print_picture_grid(main_list)
     
 
-main()
+if __name__=="__main__":
+    main()
 
 
 

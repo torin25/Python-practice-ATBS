@@ -20,6 +20,8 @@ Each subfolder contains:
 ## ✅ Completed Projects
 
 - [x] Collatz Sequence
+- [x] Comma Code
+- [x] Character Picture Grid
 
 (✅ More will be added as I complete them.)
 
